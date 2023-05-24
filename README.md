@@ -1,11 +1,10 @@
-<img align="middle" alt="coding" width="400" src="![image]("![image]("![image](https://github.com/umarwt06/umarwt06/assets/126072059/43237cf3-1a06-4018-88fb-9f6211d0ba6c)
-")>
+![logo](https://github.com/umarwt06/umarwt06/assets/126072059/02e72f35-962c-4f42-82c0-2b3f3f152ca4)
+
 
 <h1 align="center">Hi 👋, I'm MOHAMMAD UMAR</h1>
 <h3 align="center">A passionate Hacker from PAKISTAN</h3>
 
-<img align="right" alt="coding" width="400" src="![image]("![image](https://github.com/umarwt06/umarwt06/assets/126072059/a2fa47d4-2076-45b0-92b0-42610bc76eaa)
-")>
+![image](https://github.com/umarwt06/umarwt06/assets/126072059/34dc2e58-7556-4239-9449-24442e6b9554)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadumar&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadumar" /> </p>
 
