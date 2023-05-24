@@ -1,4 +1,4 @@
-|[logo](https://github.com/umarwt06/APPROVAL/blob/main/peakpx.jpg)
+|[Logo](https://github.com/umarwt06/APPROVAL/blob/main/peakpx.jpg)
 <h1 align="center">Hi 👋, I'm MOHAMMAD UMAR</h1>
 <h3 align="center">A passionate Hacker from PAKISTAN</h3>
 <img align="right" alt="coding" width="400" src="![image](https://github.com/umarwt06/umarwt06/assets/126072059/ee457cb4-e6e5-4da5-b7c9-3444f8d54e75)
